@@ -51,6 +51,14 @@ var publications = [
   [
     {
       year: '2016',
+      title: 'A Data-driven Study of View Duration on YouTube',
+      author: 'Minsu Park, Jonah Berger, Mor Naaman',
+      source: 'ICWSM 2016',
+      sourceLink: 'http://www.icwsm.org/2016/',
+      paperLink: 'http://people.jacobs.cornell.edu/mor/publications/thegoods/ParkICWSM2016_YT.pdf'
+    },
+    {
+      year: '2016',
       title: 'Immersive Recommendation: News and Event Recommendations Using Personal Digital Traces',
       author: 'Cheng-Kang Hsieh, Longqi Yang, Honghao Wei, Mor Naaman, Deborah Estrin',
       source: 'WWW 2016',
@@ -82,7 +90,7 @@ var publications = [
       author: 'Raz Schwarz, Mor Naaman, Rannie Teodoro',
       source: 'ICWSM 2015',
       sourceLink: 'http://www.icwsm.org/2015/',
-      paperLink: 'https://people.jacobs.cornell.edu/mor/publications/thegoods/Schwartz_ICWSM2015_CityBeat.pdf'
+      paperLink: 'http://people.jacobs.cornell.edu/mor/publications/thegoods/Schwartz_ICWSM2015_CityBeat.pdf'
     },
     {
       year: '2015',
@@ -140,7 +148,7 @@ var publications = [
       year: '2013',
       title: 'Effects of Gender and Tie Strength on Twitter Interactions',
       author: 'Funda Kivran-Swaine, Samuel Brody, Mor Naaman',
-      source: 'First Monday, 18(9). doi:10.5210/fm.v18i9.4633',
+      source: 'First Monday',
       paperLink: 'https://people.jacobs.cornell.edu/mor/publications/thegoods/KivranSwaine_1stMonday_EffectsGenderTwitterInteractions.pdf'
     },
     {
@@ -214,7 +222,7 @@ var publications = [
       year: '2012',
       title: 'You Should Have Been There, Man: Live Music, DIY Content and Online Communities',
       author: 'Jessa Lingel, Mor Naaman',
-      source: 'New Media & Society, 14(2), March 2012.',
+      source: 'New Media & Society',
       sourceLink: 'http://nms.sagepub.com/',
       paperLink: 'http://sm.rutgers.edu/pubs/lingel-NMS2011.pdf'
     }
@@ -315,7 +323,7 @@ var publications = [
       year: '2010',
       title: 'Is it Really About Me? Message Content in Social Awareness Streams',
       author: 'Mor Naaman, Jeff Boase, Chih-Hui Lai',
-      source: 'CSCW',
+      source: 'CSCW 2010',
       sourceLink: 'http://www.cscw2010.org/',
       paperLink: 'http://infolab.stanford.edu/~mor/research/naamanCSCW10.pdf'
     },
@@ -323,7 +331,7 @@ var publications = [
       year: '2010',
       title: 'Requirements for Mobile Photoware',
       author: 'Morgan Ames, Dean Eckles, Mor Naaman, Mirjana Spasojevic, Nancy Van House',
-      source: 'Journal of Personal and Ubiquitous Computing vol. 14(2), February 2010.',
+      source: 'Personal and Ubiquitous Computing',
       sourceLink: 'http://www.springerlink.com/content/106503/?p=55e89f8ab2c14cba9ec78c759b9e796c&pi=0',
       paperLink: 'http://infolab.stanford.edu/~mor/research/NovNaamanYeJASIST2010.pdf'
     }
@@ -365,7 +373,7 @@ var publications = [
       year: '2009',
       title: 'Methods for extracting place semantics from Flickr tags',
       author: 'Tye Rattenbury, Mor Naaman',
-      source: 'ACM Trans. Web, vol. 3(1), Article 1 (January 2009).',
+      source: 'ACM Transactions on the Web',
       sourceLink: 'http://tweb.acm.org/',
       paperLink: 'http://infolab.stanford.edu/~mor/research/RattenburyPlacesSemanticsTweb09.pdf'
     },
@@ -373,7 +381,7 @@ var publications = [
       year: '2008',
       title: 'ZoneTag\'s Collaborative Tag Suggestions: What is This Person Doing in My Phone?',
       author: 'Mor Naaman, Rahul Nair',
-      source: 'IEEE Multimedia, vol. 15 (3), pp. 34-40, July-Sept. 2008.',
+      source: 'IEEE Multimedia',
       sourceLink: 'http://infolab.stanford.edu/~mor/research.html',
       paperLink: 'http://infolab.stanford.edu/~mor/research/ZoneTagIEEEMM.pdf'
     },
@@ -405,7 +413,7 @@ var publications = [
       year: '2007',
       title: 'How Flickr Helps us Make Sense of the World: Context and Content in Community-Contributed Media Collections.',
       author: 'Lyndon Kennedy, Mor Naaman, Shane Ahern, Rahul Nair, Tye Rattenbury',
-      source: 'ACM MM 2007',
+      source: 'ACM Multimedia 2007',
       sourceLink: 'http://mmc36.informatik.uni-augsburg.de/acmmm2007/',
       paperLink: 'http://infolab.stanford.edu/~mor/research/kennedyMM07.pdf'
     },
@@ -413,7 +421,7 @@ var publications = [
       year: '2007',
       title: 'Zurfer: Mobile Multimedia Access in Spatial, Social and Topical Context',
       author: 'Amy Hwang, Shane Ahern, Simon King, Mor Naaman, Rahul Nair, Jeannie Yang',
-      source: 'ACM MM 2007',
+      source: 'ACM Multimedia 2007',
       sourceLink: 'http://mmc36.informatik.uni-augsburg.de/acmmm2007/',
       paperLink: 'http://infolab.stanford.edu/~mor/research/hwang-mm07-zurfer.pdf'
     },
@@ -454,7 +462,7 @@ var publications = [
       year: '2006',
       title: '(Invited column) Eyes on the World',
       author: 'Mor Naaman',
-      source: 'IEEE Computer Magazine, vol. 39(10), Oct 2006.',
+      source: 'IEEE Computer Magazine',
       paperLink: 'http://infolab.stanford.edu/~mor/research/naamanComp06.pdf'
     },
     {
@@ -493,7 +501,7 @@ var publications = [
       year: '2005',
       title: 'Assigning Textual Names to Sets of Geographic Coordinates',
       author: 'Mor Naaman, Yee Jiun Song, Andreas Paepcke, Hector Garcia-Molina',
-      source: 'Journal of Computers, Environment, and Urban Systems Journal, 30(4):418-435, July 2006.',
+      source: 'Journal of Computers, Environment, and Urban Systems',
       sourceLink: 'http://www.sciencedirect.com/science/journal/01989715',
       paperLink: 'http://dbpubs.stanford.edu/pub/2005-18'
     },
@@ -501,7 +509,7 @@ var publications = [
       year: '2004',
       title: 'Context Data in Geo-Referenced Digital Photo Collections',
       author: 'Mor Naaman, Susumu Harada, QianYing Wang, Hector Garcia-Molina, Andreas Paepcke',
-      source: 'ACM MM 2004',
+      source: 'ACM Multimedia 2004',
       sourceLink: 'http://www.mm2004.org/',
       paperLink: 'http://dbpubs.stanford.edu/pub/2004-43'
     },
@@ -536,14 +544,6 @@ var publications = [
       source: 'COOPIS 2003',
       sourceLink: 'http://www.cs.rmit.edu.au/fedconf/coopis/2003/',
       paperLink: 'http://dbpubs.stanford.edu/pub/2003-62'
-    },
-    {
-      year: '2003',
-      title: 'Evaluation of ESI and Class-Based Delta Encoding',
-      author: 'Mor Naaman, Hector Garcia-Molina, Andreas Paepcke',
-      source: 'IWCW 2003',
-      sourceLink: 'http://2003.iwcw.org/',
-      paperLink: 'http://dbpubs.stanford.edu/pub/2003-61'
     }
   ]
 ].map(function(n) {
