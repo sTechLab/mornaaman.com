@@ -62,13 +62,39 @@ var news = [
 var publications = [
   [
     {
-      year: '2016',
-      title: 'A Data-driven Study of View Duration on YouTube',
-      author: 'Minsu Park, Jonah Berger, Mor Naaman',
-      source: 'ICWSM 2016',
-      sourceLink: 'http://www.icwsm.org/2016/',
-      paperLink: 'http://people.jacobs.cornell.edu/mor/publications/thegoods/ParkICWSM2016_YT.pdf'
+      year: '2017',
+      title: 'Self-disclosure and Perceived Trustworthiness of Airbnb Host Profiles',
+      author: 'Xiao Ma, Jeff Hancock, Kenneth Lim Mingjie, Mor Naaman ',
+      source: 'CSCW 2017',
+      sourceLink: 'https://cscw.acm.org/2017/',
+      paperLink: ''
     },
+    {
+      year: '2017',
+      title: 'What Happens in happn? The Warranting Power of Location History',
+      author: 'Xiao Ma, Emily Sun, Mor Naaman',
+      source: 'CSCW 2017',
+      sourceLink: 'https://cscw.acm.org/2017/',
+      paperLink: 'https://s.tech.cornell.edu/assets/papers/making-sense-location_CR.pdf'
+    },
+    {
+      year: '2017',
+      title: 'Understanding Feedback Expectations on Facebook',
+      author: 'Nir Grinberg, Shankar Kalyanaraman, Lada A. Adamic, Mor Naaman',
+      source: 'CSCW 2017',
+      sourceLink: 'https://cscw.acm.org/2017/',
+      paperLink: ''
+    },
+    {
+      year: '2017',
+      title: 'TAMIES: A Study and Model of Adoption in P2P Resource Sharing and Indirect Exchange Systems',
+      author: 'Emily Sun, Ross McLachlan, Mor Naaman',
+      source: 'CSCW 2017',
+      sourceLink: 'https://cscw.acm.org/2017/',
+      paperLink: 'https://s.tech.cornell.edu/assets/papers/tamies.pdf'
+    }
+  ],
+  [
     {
       year: '2016',
       title: 'Immersive Recommendation: News and Event Recommendations Using Personal Digital Traces',
@@ -93,6 +119,14 @@ var publications = [
       sourceLink: 'https://chi2016.acm.org/',
       paperLink: 'http://www.nirg.net/papers/contribution2016grinberg.pdf',
       award: 'Best Paper Honorable Mention'
+    },
+    {
+      year: '2016',
+      title: 'A Data-driven Study of View Duration on YouTube',
+      author: 'Minsu Park, Jonah Berger, Mor Naaman',
+      source: 'ICWSM 2016',
+      sourceLink: 'http://www.icwsm.org/2016/',
+      paperLink: 'http://people.jacobs.cornell.edu/mor/publications/thegoods/ParkICWSM2016_YT.pdf'
     }
   ], 
   [
