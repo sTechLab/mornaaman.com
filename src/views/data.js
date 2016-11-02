@@ -27,6 +27,18 @@ var bio = {
 
 var news = [
   {
+    date: '30 Oct 2016',
+    title: 'Four upcoming CSCW papers now available from the pub page. Topic range: Facebook feedback expections, warranting effects of location tracking in happn, trustworthiness on Airbnb, and limitation in resource sharing platforms.'
+  },
+  {
+    date: '15 May 2016',
+    title: 'Honorable mention for best paper at CHI with Nir Grinberg, Alex Dow and Lada Adamic [(paper here)](http://www.nirg.net/papers/contribution2016grinberg.pdf).'
+  },
+  {
+    date: '12 Apr 2016',
+    title: 'Giving an [invited talk](http://www.snow-workshop.org/2016/keynotes/), again about my experience working with events in social media, at the WWW SNOW 2016 workshop.'
+  },
+  {
     date: '18 Feb 2016',
     title: 'I am giving an [invited talk](http://www.wsdm-conference.org/2016/invited-speakers.html#pe-naaman) at WSDM 2016 about my research and startup experiences around events in social media. '
   },
