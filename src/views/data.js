@@ -296,7 +296,7 @@ var publications = [
       author: 'Mor Naaman, Hila Becker, Luis Gravano',
       source: 'JASIST',
       sourceLink: 'http://www.asis.org/jasist.html',
-      paperLink: 'http://comminfo.rutgers.edu/~mor/publications/NaamanJasistTwitterTrends.pdf'
+      paperLink: 'https://people.jacobs.cornell.edu/mor/publications/thegoods/Naaman2011JasistHipTrendy.pdf'
     },
     {
       year: '2011',
@@ -312,7 +312,7 @@ var publications = [
       author: 'Nicholas Diakopoulos, Mor Naaman, Funda Kivran-Swaine',
       source: 'CHI 2011',
       sourceLink: 'http://chi2011.org/',
-      paperLink: 'http://comminfo.rutgers.edu/~mor/publications/diakopoulosCHI2011.pdf'
+      paperLink: 'https://dl.acm.org/authorize?N26251'
     },
     {
       year: '2011',
@@ -320,7 +320,7 @@ var publications = [
       author: 'Funda Kivran-Swaine, Mor Naaman',
       source: 'CSCW 2011',
       sourceLink: 'http://cscw2011.org/',
-      paperLink: 'http://comminfo.rutgers.edu/~mor/publications/kivranswainecscw2011.pdf'
+      paperLink: 'https://dl.acm.org/authorize?N26252'
     },
     {
       year: '2011',
@@ -328,7 +328,7 @@ var publications = [
       author: 'Nicholas Diakopoulos, Mor Naaman',
       source: 'CSCW 2011',
       sourceLink: 'http://cscw2011.org/',
-      paperLink: 'http://comminfo.rutgers.edu/~mor/publications/diakopoulosCSCW2011.pdf'
+      paperLink: 'https://dl.acm.org/authorize?N26253'
     }
   ], 
   [
@@ -338,8 +338,7 @@ var publications = [
       author: 'Mor Naaman',
       source: 'MTAPP',
       sourceLink: 'http://www.springer.com/computer/information+systems+and+applications/journal/11042',
-      paperLink: 'http://comminfo.rutgers.edu/~mor/publications/NaamanMTAP10socialMultimedia.pdf',
-      extraInfo: '[Published Online First](http://www.springerlink.com/content/v836432078k27014/?p=8cf4735132d64e02a0352d2a4b8c2e65&pi=9)'
+      paperLink: 'https://people.jacobs.cornell.edu/mor/publications/thegoods/Naaman2010MTAPsocialMultimedia.pdf'
     },
     {
       year: '2010',
@@ -347,7 +346,7 @@ var publications = [
       author: 'Nicholas Diakopoulos, Mor Naaman, Funda Kivran-Swaine',
       source: 'VAST 2010',
       sourceLink: 'http://vis.computer.org/VisWeek2010/vast.html',
-      paperLink: 'http://comminfo.rutgers.edu/~mor/publications/DiakVast10.pdf'
+      paperLink: 'https://people.jacobs.cornell.edu/mor/publications/thegoods/DiakVast10.pdf'
     },
     {
       year: '2010',
@@ -363,7 +362,7 @@ var publications = [
       author: 'Hila Becker, Mor Naaman, Luis Gravano',
       source: 'WSDM 2010',
       sourceLink: 'http://www.wsdm-conference.org/2010/',
-      paperLink: 'http://infolab.stanford.edu/~mor/research/becker-wsdm10.pdf'
+      paperLink: 'https://dl.acm.org/authorize?N26265'
     },
     {
       year: '2010',
@@ -371,7 +370,7 @@ var publications = [
       author: 'Mor Naaman, Jeff Boase, Chih-Hui Lai',
       source: 'CSCW 2010',
       sourceLink: 'http://www.cscw2010.org/',
-      paperLink: 'http://infolab.stanford.edu/~mor/research/naamanCSCW10.pdf'
+      paperLink: 'https://dl.acm.org/authorize?N26254'
     },
     {
       year: '2010',
