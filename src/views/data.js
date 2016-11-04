@@ -304,7 +304,7 @@ var publications = [
       author: 'Funda Kivran-Swaine, Priya Govindan, Mor Naaman',
       source: 'CHI 2011',
       sourceLink: 'http://chi2011.org/',
-      paperLink: 'http://comminfo.rutgers.edu/~mor/publications/kivranswaineCHI2011.pdf'
+      paperLink: 'https://dl.acm.org/authorize?N26250'
     },
     {
       year: '2011',
