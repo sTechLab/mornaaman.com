@@ -28,7 +28,7 @@ var bio = {
 var news = [
   {
     date: '30 Oct 2016',
-    title: 'Four upcoming CSCW papers now available from the pub page. Topic range: Facebook feedback expections, warranting effects of location tracking in happn, trustworthiness on Airbnb, and limitation in resource sharing platforms.'
+    title: 'Four upcoming CSCW papers now available from the pub page. Topic range: Facebook feedback expectations, warranting effects of location tracking in happn, trustworthiness on Airbnb, and limitation in resource sharing platforms.'
   },
   {
     date: '15 May 2016',
@@ -531,7 +531,7 @@ var publications = [
       title: 'Leveraging Geo-Referenced Digital Photographs',
       author: 'Mor Naaman',
       source: 'Ph.D. Thesis',
-      paperLink: 'http://infolab.stanford.edu/~mor/research/chi241-ahern-mediaprivacy.pdf',
+      paperLink: 'http://infolab.stanford.edu/~mor/research/naamanthesis.pdf',
       extraInfo: 'For a shoter read: [Introduction Only](http://infolab.stanford.edu/~mor/research/naamanthesisintro.pdf)'
     },
     {
