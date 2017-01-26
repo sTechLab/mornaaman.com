@@ -75,6 +75,30 @@ var publications = [
   [
     {
       year: '2017',
+      title: 'MoveMeant: Anonymously Building Community Through Shared Location Histories',
+      author: 'Emily Sun, Ross McLachlan, Mor Naaman',
+      source: 'CHI 2017',
+      sourceLink: 'https://chi2017.acm.org/',
+      paperLink: 'https://s.tech.cornell.edu/assets/papers/movemeant-note-chi2017.pdf'
+    },
+    {
+      year: '2017',
+      title: 'Modeling Sub-Document Attention Using Viewport Time',
+      author: 'Max Grusky, Jeiran Jahani, Josh Schwartz, Dan Valente, Yoav Artzi, Mor Naaman',
+      source: 'CHI 2017',
+      sourceLink: 'https://chi2017.acm.org/',
+      paperLink: 'https://s.tech.cornell.edu/assets/papers/viewport-time-chi2017.pdf'
+    },
+    {
+      year: '2017',
+      title: '“People Are Either Too Fake or Too Real”: Opportunities and Challenges in Tie-Based Anonymity',
+      author: 'Xiao Ma, Nazanin Andalibi, Louise Barkhuus, Mor Naaman',
+      source: 'CHI 2017',
+      sourceLink: 'https://chi2017.acm.org/',
+      paperLink: 'https://s.tech.cornell.edu/assets/papers/secret-qual.pdf'
+    },
+    {
+      year: '2017',
       title: 'Self-disclosure and Perceived Trustworthiness of Airbnb Host Profiles',
       author: 'Xiao Ma, Jeff Hancock, Kenneth Lim Mingjie, Mor Naaman ',
       source: 'CSCW 2017',
