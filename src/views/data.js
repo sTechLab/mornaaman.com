@@ -27,6 +27,18 @@ var bio = {
 
 var news = [
   {
+    date: '25 Jan 2017',
+    title: 'My student Xiao Ma recognized as [Facebook PhD Fellowship Finalist](https://research.fb.com/announcing-the-2017-facebook-phd-fellows/)!.'
+  },
+  {
+    date: '25 Jan 2017',
+    title: 'Three new upcoming papers at CHI 2017 available from the pubs page -- on a new kind of community awareness app, measuring attention to news articles, and anonymous social networks.'
+  },
+  {
+    date: '23 Jan 2017',
+    title: 'Our paper on [trustworthiness of profiles on Airbnb](https://s.tech.cornell.edu/assets/papers/ma2017airbnb.pdf) gets a Honorable mention for best paper at CSCW.'
+  },
+  {
     date: '30 Oct 2016',
     title: 'Four upcoming CSCW papers now available from the pub page. Topic range: Facebook feedback expectations, warranting effects of location tracking in happn, trustworthiness on Airbnb, and limitation in resource sharing platforms.'
   },
