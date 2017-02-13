@@ -103,7 +103,7 @@ var publications = [
       author: 'Xiao Ma, Jeff Hancock, Kenneth Lim Mingjie, Mor Naaman ',
       source: 'CSCW 2017',
       sourceLink: 'https://cscw.acm.org/2017/',
-      paperLink: 'https://s.tech.cornell.edu/assets/papers/ma_airbnb.pdf',
+      paperLink: 'https://s.tech.cornell.edu/assets/papers/ma2017airbnb.pdf',
       award: 'Best Paper Honorable Mention'
     },
     {
