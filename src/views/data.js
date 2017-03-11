@@ -79,6 +79,14 @@ var publications = [
   [
     {
       year: '2017',
+      title: 'A Computational Approach to Perceived Trustworthiness of Airbnb Host Profiles',
+      author: 'Xiao Ma, Trishala Neeraj, Mor Naaman',
+      source: 'ICWSM 2017',
+      sourceLink: 'http://www.icwsm.org/2017/',
+      paperLink: ''
+    },
+    {
+      year: '2017',
       title: 'MoveMeant: Anonymously Building Community Through Shared Location Histories',
       author: 'Emily Sun, Ross McLachlan, Mor Naaman',
       source: 'CHI 2017',
@@ -124,7 +132,7 @@ var publications = [
       author: 'Nir Grinberg, Shankar Kalyanaraman, Lada A. Adamic, Mor Naaman',
       source: 'CSCW 2017',
       sourceLink: 'https://cscw.acm.org/2017/',
-      paperLink: ''
+      paperLink: 'http://www.nirg.net/papers/feedback_exp.pdf'
     },
     {
       year: '2017',
