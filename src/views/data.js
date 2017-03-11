@@ -27,6 +27,10 @@ var bio = {
 
 var news = [
   {
+    date: '23 Feb 2017',
+    title: '[Received a Google Research Award](https://research.googleblog.com/2017/02/google-research-awards-2016.html) for our work on large-scale patterns of attention. Thanks Google!'
+  },
+  {
     date: '25 Jan 2017',
     title: 'My student Xiao Ma recognized as [Facebook PhD Fellowship Finalist](https://research.fb.com/announcing-the-2017-facebook-phd-fellows/)!'
   },
