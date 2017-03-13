@@ -83,7 +83,7 @@ var publications = [
       author: 'Xiao Ma, Trishala Neeraj, Mor Naaman',
       source: 'ICWSM 2017',
       sourceLink: 'http://www.icwsm.org/2017/',
-      paperLink: ''
+      paperLink: 'http://maxiao.info/assets/computational-airbnb.pdf'
     },
     {
       year: '2017',
