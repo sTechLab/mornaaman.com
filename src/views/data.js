@@ -27,6 +27,10 @@ var bio = {
 
 var news = [
   {
+    date: '17 Mar 2017',
+    title: 'Congrats to my 1st year PhD student Matt Law for a NSF Graduate Research Fellowship Honorable Mention.'
+  },
+  {
     date: '23 Feb 2017',
     title: '[Received a Google Research Award](https://research.googleblog.com/2017/02/google-research-awards-2016.html) for our work on large-scale patterns of attention. Thanks Google!'
   },
