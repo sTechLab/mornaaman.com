@@ -3,7 +3,8 @@ var marked = require('marked');
 var bio = {
   shortBio: marked(
     '<p>'
-    + 'I am an associate professor at [Cornell Tech](http://tech.cornell.edu/) where I am the founder of the Connective Media hub, and lead the [Social Technologies](http://stech.nyc) research group. '
+    + 'I am an associate professor at [Cornell Tech](http://tech.cornell.edu/) where I am the founder of the Connective Media hub, '
+    + 'co-direct the Oath-supported [Connected Experiences Lab](http://cx.jacobs.cornell.edu/), and lead the [Social Technologies](http://stech.nyc) research group. '
     + 'I sometimes consult or even co-found startups. '
     + 'Previously, I was an assistant professor at [Rutgers SC&I](http://comminfo.rutgers.edu/), led a research team at Yahoo! Research Berkeley, and got a [PhD from Stanford](http://infolab.stanford.edu/). '
     + 'Oh, and played professional basketball.'
@@ -13,7 +14,7 @@ var bio = {
   ),
   fullBio: marked(
     '<p>'
-    + 'Mor Naaman is an associate professor of [Information Science](http://infosci.cornell.edu/) at the [Jacobs Institute](http://jacobs.cornell.edu/) at [Cornell Tech](http://tech.cornell.edu/), where he is the founder of the Connective Media hub, leads a [research group focused on social technologies](https://s.tech.cornell.edu/), and directs the [AOL Connected Experiences laboratory](https://cx.jacobs.cornell.edu/).'
+    + 'Mor Naaman is an associate professor of [Information Science](http://infosci.cornell.edu/) at the [Jacobs Institute](http://jacobs.cornell.edu/) at [Cornell Tech](http://tech.cornell.edu/), where he is the founder of the Connective Media hub, leads a [research group focused on social technologies](https://s.tech.cornell.edu/), and directs the Oath-supported [Connected Experiences laboratory](https://cx.jacobs.cornell.edu/).'
     + '</p> <p>'
     + 'His research group designs, builds, and studies systems that support social interactions in online and physical spaces. '
     + 'Mor applies multidisciplinary methods to 1) gain a better understanding of people and their use of social tech; 2) extract insights about people, technology and society from social media and other sources of social data, and 3) develop new social technologies as well as novel tools to make social data more accessible and usable in various settings. '
@@ -97,6 +98,14 @@ var news = [
 
 var publications = [
   [
+    {
+      year: '2018',
+      title: 'A Multi-site Investigation of Community Awareness Through Passive Location Sharing',
+      author: 'Emily Sun, Mor Naaman',
+      source: 'CHI 2018',
+      sourceLink: 'https://chi2018.acm.org/',
+      paperLink: 'https://s.tech.cornell.edu/assets/papers/movemeant-chi2018.pdf'
+    },
     {
       year: '2017',
       title: 'A Computational Approach to Perceived Trustworthiness of Airbnb Host Profiles',
