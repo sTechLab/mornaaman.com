@@ -27,6 +27,22 @@ var bio = {
 
 var news = [
   {
+    date: '20 Dec 2017',
+    title: 'Congrats to my PhD student Xiao Ma for [Snap Research Honorable Mention](https://snapresearchfellowship.splashthat.com/)!'
+  },
+  {
+    date: '28 Sep 2017',
+    title: 'Launched [Technology Media & Democracy](https://www.techmediademocracy.nyc/) initiative: Six New York City Universities Partner to Defend Independent Media and Journalism'
+  },
+  {
+    date: '25 Aug 2017',
+    title: 'Panel in the celebration of Martha Pollack’s inauguration as Cornell’s 14th president: [Symposium addresses role of truth in universities, society](http://news.cornell.edu/stories/2017/08/symposium-addresses-role-truth-universities-society)'
+  },
+  {
+    date: '30 Mar 2017',
+    title: 'Thanks NSF for an EAGER award to study new ideas in [Indirect Resource Exchange](https://nsf.gov/awardsearch/showAward?AWD_ID=1665169).'
+  },
+  {
     date: '17 Mar 2017',
     title: 'Congrats to my 1st year PhD student Matt Law for a NSF Graduate Research Fellowship Honorable Mention.'
   },
@@ -65,15 +81,15 @@ var news = [
   {
     date: '10 Feb 2016',
     title: 'Two upcoming CHI 2016 papers from my lab are available [here](http://stech.nyc) -- including one best paper honorable mention. '
-  },
-  {
-    date: '30 Nov 2015',
-    title: 'My lab is hiring new PhD students this year. To work with us, you can apply to the Cornell [IS](http://infosci.cornell.edu/academics/phd) or [CS](https://www.cs.cornell.edu/phd) PhD programs.'
-  },
-  {
-    date: '12 Nov 2014',
-    title: 'AOL [announces](http://blog.aol.com/2014/11/12/aol-launches-connected-experience-lab-with-jacobs-technion-corne/) gift to start Connected Experiences (Conn.X) Laboratory at Jacobs Institute and Cornell Tech, co-founded by me.'
   }
+  //{
+  //  date: '30 Nov 2015',
+  //  title: 'My lab is hiring new PhD students this year. To work with us, you can apply to the Cornell [IS](http://infosci.cornell.edu/academics/phd) or [CS](https://www.cs.cornell.edu/phd) PhD programs.'
+  //},
+  //{
+  //  date: '12 Nov 2014',
+  //  title: 'AOL [announces](http://blog.aol.com/2014/11/12/aol-launches-connected-experience-lab-with-jacobs-technion-corne/) gift to start Connected Experiences (Conn.X) Laboratory at Jacobs Institute and Cornell Tech, co-founded by me.'
+  //}
 ].map(function(n) {
   n.title = marked(n.title);
   return n;
