@@ -102,7 +102,7 @@ var publications = [
       year: '2018',
       title: 'Web-based VR Experiments Powered by the Crowd',
       author: 'Xiao Ma, Megan Cackett, Leslie Park, Eric Chien, Tianyu Xie, Jing Shan, Mor Naaman',
-      source: 'The Web Coference (WWW) 2018',
+      source: 'Web Conf (WWW) 2018',
       sourceLink: 'https://www2018.thewebconf.org/',
       paperLink: ''
     },
@@ -113,7 +113,9 @@ var publications = [
       source: 'CHI 2018',
       sourceLink: 'https://chi2018.acm.org/',
       paperLink: 'https://s.tech.cornell.edu/assets/papers/movemeant-chi2018.pdf'
-    },
+    }
+  ],
+  [
     {
       year: '2017',
       title: 'A Computational Approach to Perceived Trustworthiness of Airbnb Host Profiles',
