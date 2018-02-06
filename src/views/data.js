@@ -102,7 +102,7 @@ var publications = [
       year: '2018',
       title: 'Web-based VR Experiments Powered by the Crowd',
       author: 'Xiao Ma, Megan Cackett, Leslie Park, Eric Chien, Mor Naaman',
-      source: 'Web Conf (WWW) 2018',
+      source: 'WWW 2018',
       sourceLink: 'https://www2018.thewebconf.org/',
       paperLink: 'http://maxiao.info/assets/crowdWebVR.pdf'
     },
