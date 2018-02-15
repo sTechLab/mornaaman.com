@@ -98,6 +98,14 @@ var news = [
 
 var publications = [
   [
+   {
+      year: '2018',
+      title: 'A Dataset of 1.3 Million Summaries with Diverse Extractive Strategies',
+      author: 'Max Grusky, Mor Naaman, and Yoav Artzi',
+      source: 'NAACL 2018',
+      sourceLink: 'http://naacl2018.org/',
+      paperLink: ''
+    },    
     {
       year: '2018',
       title: 'Web-based VR Experiments Powered by the Crowd',
