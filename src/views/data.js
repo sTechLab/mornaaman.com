@@ -112,7 +112,7 @@ var publications = [
       author: 'Xiao Ma, Megan Cackett, Leslie Park, Eric Chien, Mor Naaman',
       source: 'WWW 2018',
       sourceLink: 'https://www2018.thewebconf.org/',
-      paperLink: 'http://maxiao.info/assets/crowdWebVR.pdf'
+      paperLink: 'http://maxiao.info/assets/VRCrowdExperiments.pdf'
     },
     {
       year: '2018',
