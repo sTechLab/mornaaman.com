@@ -100,6 +100,14 @@ var publications = [
   [
    {
       year: '2018',
+      title: 'ShareBox: Designing A Physical System to Support Resource Exchange in Local Communities',
+      author: 'Matthew Law, Mor Naaman, and Nicola Dell',
+      source: 'DIS 2018',
+      sourceLink: 'http://dis2018.org/',
+      paperLink: ''
+    },    
+   {
+      year: '2018',
       title: 'A Dataset of 1.3 Million Summaries with Diverse Extractive Strategies',
       author: 'Max Grusky, Mor Naaman, and Yoav Artzi',
       source: 'NAACL 2018',
