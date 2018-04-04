@@ -128,7 +128,7 @@ var publications = [
       author: 'Emily Sun, Mor Naaman',
       source: 'CHI 2018',
       sourceLink: 'https://chi2018.acm.org/',
-      paperLink: 'https://s.tech.cornell.edu/assets/papers/movemeant-chi2018.pdf'
+      paperLink: 'https://s.tech.cornell.edu/assets/papers/location-sharing-sun.pdf'
     }
   ],
   [
