@@ -104,7 +104,7 @@ var publications = [
       author: 'Matthew Law, Mor Naaman, and Nicola Dell',
       source: 'DIS 2018',
       sourceLink: 'http://dis2018.org/',
-      paperLink: ''
+      paperLink: 'https://s.tech.cornell.edu/assets/papers/sharebox-local-communities.pdf'
     },    
    {
       year: '2018',
@@ -112,7 +112,7 @@ var publications = [
       author: 'Max Grusky, Mor Naaman, and Yoav Artzi',
       source: 'NAACL 2018',
       sourceLink: 'http://naacl2018.org/',
-      paperLink: ''
+      paperLink: 'https://s.tech.cornell.edu/assets/papers/newsroom.pdf'
     },    
     {
       year: '2018',
