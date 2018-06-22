@@ -205,7 +205,7 @@ var publications = [
       author: 'Cheng-Kang Hsieh, Longqi Yang, Honghao Wei, Mor Naaman, Deborah Estrin',
       source: 'WWW 2016',
       sourceLink: 'http://www2016.ca/',
-      paperLink: 'http://www.cs.cornell.edu/~ylongqi/publications/HsiehYWNE16.pdf'
+      paperLink: 'http://www.cs.cornell.edu/~ylongqi/paper/HsiehYWNE16.pdf'
     },
     {
       year: '2016',
