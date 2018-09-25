@@ -322,7 +322,7 @@ var publications = [
       {
       year: '2012',
       title: 'Finding and Assessing Social Media Information Sources in the Context of Journalism',
-      author: 'Nick Diakopoulos, Mummun  De Choudhury, Mor Naaman',
+      author: 'Nicholas Diakopoulos, Mummun  De Choudhury, Mor Naaman',
       source: 'CHI 2012',
       sourceLink: 'https://chi2012.acm.org/',
       paperLink: 'http://www.munmund.net/pubs/chi_2012.pdf',
