@@ -9,14 +9,16 @@ var bio = {
     + 'Previously, I was an assistant professor at [Rutgers SC&I](http://comminfo.rutgers.edu/), led a research team at Yahoo! Research Berkeley, and got a [PhD from Stanford](http://infolab.stanford.edu/). '
     + 'Oh, and played professional basketball.'
     + '</p> <p>'
-    + 'My lab designs, builds, and studies systems that support social interactions in online and physical spaces. Our sponsors include [AOL](http://connectedexperiences.org), Google, Facebook and the National Science Foundation. '
+    + 'My lab designs, builds, and studies social systems, with a focus on topics related to Technology, Media and Democracy. Our sponsors include [Yahoo Research / Oath](http://connectedexperiences.org), Google, Facebook and the National Science Foundation. '
+    + '</p>'
+    + '<b>For prospective 2019/2020 PhDs:</b>I will only be considering new students who are committed to working on isses related to Technology, Media and Democracy. '
     + '</p>'
   ),
   fullBio: marked(
     '<p>'
     + 'Mor Naaman is an associate professor of [Information Science](http://infosci.cornell.edu/) at the [Jacobs Institute](http://jacobs.cornell.edu/) at [Cornell Tech](http://tech.cornell.edu/), where he is the founder of the Connective Media hub, leads a [research group focused on social technologies](https://s.tech.cornell.edu/), and directs the Oath-supported [Connected Experiences laboratory](https://cx.jacobs.cornell.edu/).'
     + '</p> <p>'
-    + 'His research group designs, builds, and studies systems that support social interactions in online and physical spaces. '
+    + 'His research group designs, builds, and studies studies social systems, with a focus on topics related to Technology, Media and Democracy. '
     + 'Mor applies multidisciplinary methods to 1) gain a better understanding of people and their use of social tech; 2) extract insights about people, technology and society from social media and other sources of social data, and 3) develop new social technologies as well as novel tools to make social data more accessible and usable in various settings. '
     + '</p> <p>'
     + 'Previously, Mor was on the faculty at the [Rutgers School of Communication and Information](http://comminfo.rutgers.edu/), led a research team at Yahoo! Research Berkeley, received a Ph.D. in Computer Science from the [Stanford University InfoLab](http://infolab.stanford.edu/), and played professional basketball for Hapoel Tel Aviv. He is a recipient of a NSF Early Faculty CAREER Award, research awards and grants from numerous corporations including AOL and Google, and multiple best paper awards.'
@@ -27,6 +29,14 @@ var bio = {
 };
 
 var news = [
+  {
+    date: '11 Aug 2018',
+    title: 'NSF EAGER award (with Yoav, Shiri) to [better understand large-scale patterns of attention to news articles](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1840751)'
+  },
+  {
+    date: '7 May 2018',
+    title: 'Report on the succesful first iteration of [Tech, Media and Democracy Course](http://bcexcelsior.com/how-six-nyc-universities-are-fighting-to-defend-journalism-and-democracy/)'
+  },
   {
     date: '20 Dec 2017',
     title: 'Congrats to my PhD student Xiao Ma for [Snap Research Honorable Mention](https://snapresearchfellowship.splashthat.com/)!'
@@ -62,27 +72,27 @@ var news = [
   {
     date: '23 Jan 2017',
     title: 'Our paper on [trustworthiness of profiles on Airbnb](https://s.tech.cornell.edu/assets/papers/ma2017airbnb.pdf) gets a Honorable mention for best paper at CSCW.'
-  },
-  {
-    date: '30 Oct 2016',
-    title: 'Four upcoming CSCW papers now available from the pub page. Topic range: Facebook feedback expectations, warranting effects of location tracking in happn, trustworthiness on Airbnb, and limitation in resource sharing platforms.'
-  },
-  {
-    date: '15 May 2016',
-    title: 'Honorable mention for best paper at CHI with Nir Grinberg, Alex Dow and Lada Adamic [(paper here)](http://www.nirg.net/papers/contribution2016grinberg.pdf).'
-  },
-  {
-    date: '12 Apr 2016',
-    title: 'Giving an [invited talk](http://www.snow-workshop.org/2016/keynotes/), again about my experience working with events in social media, at the WWW SNOW 2016 workshop.'
-  },
-  {
-    date: '18 Feb 2016',
-    title: 'I am giving an [invited talk](http://www.wsdm-conference.org/2016/invited-speakers.html#pe-naaman) at WSDM 2016 about my research and startup experiences around events in social media. '
-  },
-  {
-    date: '10 Feb 2016',
-    title: 'Two upcoming CHI 2016 papers from my lab are available [here](http://stech.nyc) -- including one best paper honorable mention. '
   }
+  //{
+  //  date: '30 Oct 2016',
+  //  title: 'Four upcoming CSCW papers now available from the pub page. Topic range: Facebook feedback expectations, warranting effects of location tracking in happn, trustworthiness on Airbnb, and limitation in resource sharing platforms.'
+  //},
+  //{
+  //  date: '15 May 2016',
+  //  title: 'Honorable mention for best paper at CHI with Nir Grinberg, Alex Dow and Lada Adamic [(paper here)](http://www.nirg.net/papers/contribution2016grinberg.pdf).'
+  //},
+  //{
+  //  date: '12 Apr 2016',
+  //  title: 'Giving an [invited talk](http://www.snow-workshop.org/2016/keynotes/), again about my experience working with events in social media, at the WWW SNOW 2016 workshop.'
+  //},
+  //{
+  //  date: '18 Feb 2016',
+  //  title: 'I am giving an [invited talk](http://www.wsdm-conference.org/2016/invited-speakers.html#pe-naaman) at WSDM 2016 about my research and startup experiences around events in social media. '
+  //},
+  //{
+  //  date: '10 Feb 2016',
+  //  title: 'Two upcoming CHI 2016 papers from my lab are available [here](http://stech.nyc) -- including one best paper honorable mention. '
+  //}
   //{
   //  date: '30 Nov 2015',
   //  title: 'My lab is hiring new PhD students this year. To work with us, you can apply to the Cornell [IS](http://infosci.cornell.edu/academics/phd) or [CS](https://www.cs.cornell.edu/phd) PhD programs.'
