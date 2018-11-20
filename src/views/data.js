@@ -11,7 +11,7 @@ var bio = {
     + '</p> <p>'
     + 'My lab designs, builds, and studies social systems, with a focus on topics related to Technology, Media and Democracy. Our sponsors include [Yahoo Research / Oath](http://connectedexperiences.org), Google, Facebook and the National Science Foundation. '
     + '</p>'
-    + '<b>For prospective 2019/2020 PhDs: </b>I will only be considering new students who are committed to working on isses related to Technology, Media and Democracy. Feel free to email me with information about your relevant experience and goals.'
+    + '<b>For prospective 2019/2020 PhDs: </b>I will only be considering new students who are committed to working on issues related to Technology, Media and Democracy. Feel free to email me with information about your relevant experience and goals.'
     + '</p>'
   ),
   fullBio: marked(
