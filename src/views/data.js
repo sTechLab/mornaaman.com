@@ -108,7 +108,23 @@ var news = [
 
 var publications = [
   [
-   {
+    {
+      year: '2019',
+      title: 'More than Just Words: Modeling Non-textual Characteristics of Podcasts',
+      author: 'Longqi Yang, Yu Wang, Drew Dunne, Michael Sobolev, Mor Naaman, and Deborah Estrin',
+      source: 'WSDM 2019',
+      sourceLink: 'http://www.wsdm-conference.org/2019/',
+      paperLink: ''
+    },    
+    {
+      year: '2019',
+      title: 'Understanding Image Quality and Trust in Peer-to-Peer Marketplaces',
+      author: 'Xiao Ma, Lina Mezghani, Kimberly Wilber, Hui Hong, Robinson Piramuthu, Mor Naaman, Serge Belongie. ',
+      source: 'WACV 2019',
+      sourceLink: 'http://wacv19.wacv.net/',
+      paperLink: ''
+    },    
+    {
       year: '2018',
       title: 'ShareBox: Designing A Physical System to Support Resource Exchange in Local Communities',
       author: 'Matthew Law, Mor Naaman, and Nicola Dell',
