@@ -123,7 +123,9 @@ var publications = [
       source: 'WACV 2019',
       sourceLink: 'http://wacv19.wacv.net/',
       paperLink: ''
-    },    
+    }
+  ],
+  [
     {
       year: '2018',
       title: 'ShareBox: Designing A Physical System to Support Resource Exchange in Local Communities',
