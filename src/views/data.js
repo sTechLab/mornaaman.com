@@ -122,7 +122,7 @@ var publications = [
       author: 'Xiao Ma, Lina Mezghani, Kimberly Wilber, Hui Hong, Robinson Piramuthu, Mor Naaman, Serge Belongie. ',
       source: 'WACV 2019',
       sourceLink: 'http://wacv19.wacv.net/',
-      paperLink: ''
+      paperLink: 'https://arxiv.org/pdf/1811.10648.pdf'
     }
   ],
   [
