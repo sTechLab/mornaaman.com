@@ -110,11 +110,26 @@ var publications = [
   [
     {
       year: '2019',
+      title: 'DejaVu: A System for Journalists to Collaboratively Address Visual Misinformation',
+      author: 'Hana Matatov, Adina Bechhofer, Lora Aroyo, Ofra Amir, Mor Naaman',
+      source: 'Computation + Journalism',
+      sourceLink: 'http://cplusj.org/',
+      paperLink: ''
+    },    
+    {
+      title: 'The Role of Source, Headline and Expressive Responding in Political News Evaluation',
+      author: 'Maurice Jakesch, Moran Koren, Anna Evtushenko, Mor Naaman',
+      source: 'Computation + Journalism',
+      sourceLink: 'http://cplusj.org/',
+      paperLink: ''
+    },    
+    {
+      year: '2019',
       title: 'More than Just Words: Modeling Non-textual Characteristics of Podcasts',
-      author: 'Longqi Yang, Yu Wang, Drew Dunne, Michael Sobolev, Mor Naaman, and Deborah Estrin',
+      author: 'Longqi Yang, Yu Wang, Drew Dunne, Michael Sobolev, Mor Naaman, Deborah Estrin',
       source: 'WSDM 2019',
       sourceLink: 'http://www.wsdm-conference.org/2019/',
-      paperLink: ''
+      paperLink: 'http://www.cs.cornell.edu/~ylongqi/paper/YangWDSNE19.pdf'
     },    
     {
       year: '2019',
@@ -129,7 +144,7 @@ var publications = [
     {
       year: '2018',
       title: 'ShareBox: Designing A Physical System to Support Resource Exchange in Local Communities',
-      author: 'Matthew Law, Mor Naaman, and Nicola Dell',
+      author: 'Matthew Law, Mor Naaman, Nicola Dell',
       source: 'DIS 2018',
       sourceLink: 'http://dis2018.org/',
       paperLink: 'https://s.tech.cornell.edu/assets/papers/sharebox-local-communities.pdf'
@@ -137,7 +152,7 @@ var publications = [
    {
       year: '2018',
       title: 'A Dataset of 1.3 Million Summaries with Diverse Extractive Strategies',
-      author: 'Max Grusky, Mor Naaman, and Yoav Artzi',
+      author: 'Max Grusky, Mor Naaman, Yoav Artzi',
       source: 'NAACL 2018',
       sourceLink: 'http://naacl2018.org/',
       paperLink: 'https://s.tech.cornell.edu/assets/papers/newsroom.pdf'
