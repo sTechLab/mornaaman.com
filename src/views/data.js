@@ -110,6 +110,22 @@ var publications = [
   [
     {
       year: '2019',
+      title: 'When Do People Trust Their Social Groups?',
+      author: 'Xiao Ma, Justin Cheng, Shankar Iyer, Mor Naaman',
+      source: 'CHI 2019',
+      sourceLink: 'https://chi2019.acm.org/',
+      paperLink: ''
+    },
+    {
+      year: '2019',
+      title: 'AI-Mediated Communication: How the Perception that Profile Text was Written by AI Affects Trustworthiness',
+      author: 'Maurice Jakesch, Megan French, Xiao Ma, Jeff Hancock, Mor Naaman',
+      source: 'CHI 2019',
+      sourceLink: 'https://chi2019.acm.org/',
+      paperLink: ''
+    },
+    {
+      year: '2019',
       title: 'DejaVu: A System for Journalists to Collaboratively Address Visual Misinformation',
       author: 'Hana Matatov, Adina Bechhofer, Lora Aroyo, Ofra Amir, Mor Naaman',
       source: 'Computation + Journalism',
