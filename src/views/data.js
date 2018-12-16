@@ -130,14 +130,14 @@ var publications = [
       author: 'Hana Matatov, Adina Bechhofer, Lora Aroyo, Ofra Amir, Mor Naaman',
       source: 'Computation + Journalism',
       sourceLink: 'http://cplusj.org/',
-      paperLink: ''
+      paperLink: 'https://people.jacobs.cornell.edu/mor/publications/thegoods/Matatov_cplusj_dejavu.pdf'
     },    
     {
-      title: 'The Role of Source, Headline and Expressive Responding in Political News Evaluation',
+      title: 'The Role of Source and Expressive Responding in Political News Evaluation',
       author: 'Maurice Jakesch, Moran Koren, Anna Evtushenko, Mor Naaman',
       source: 'Computation + Journalism',
       sourceLink: 'http://cplusj.org/',
-      paperLink: ''
+      paperLink: 'https://people.jacobs.cornell.edu/mor/publications/thegoods/jakesch_cplusj19__trustnews.pdf'
     },    
     {
       year: '2019',
