@@ -110,6 +110,22 @@ var publications = [
   [
     {
       year: '2019',
+      title: 'Understanding Reader Backtracking Behavior in Online News Articles',
+      author: 'Uzi Smadja, Max Grusky, Yoav Artzi, Mor Naaman',
+      source: 'WWW 2019',
+      sourceLink: 'https://www2019.thewebconf.org/',
+      paperLink: ''
+    },
+    {
+      year: '2019',
+      title: 'How Intention Informed Recommendations Modulate Choices: A Field Study of Spoken Word Content',
+      author: 'Longqi Yang, Michael Sobolev, Yu Wang, Jenny Chen, Drew Dunne, Christina Tsangouri, Nicola Dell, Mor Naaman, Deborah Estrin',
+      source: 'WWW 2019',
+      sourceLink: 'https://www2019.thewebconf.org/',
+      paperLink: ''
+    },
+    {
+      year: '2019',
       title: 'When Do People Trust Their Social Groups?',
       author: 'Xiao Ma, Justin Cheng, Shankar Iyer, Mor Naaman',
       source: 'CHI 2019',
