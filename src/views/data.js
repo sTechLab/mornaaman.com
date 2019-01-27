@@ -138,7 +138,7 @@ var publications = [
       author: 'Maurice Jakesch, Megan French, Xiao Ma, Jeff Hancock, Mor Naaman',
       source: 'CHI 2019',
       sourceLink: 'https://chi2019.acm.org/',
-      paperLink: ''
+      paperLink: 'http://www.mauricejakesch.com/pub/chi2019__ai_mc_camera_ready.pdf'
     },
     {
       year: '2019',
