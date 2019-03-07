@@ -122,7 +122,7 @@ var publications = [
       author: 'Longqi Yang, Michael Sobolev, Yu Wang, Jenny Chen, Drew Dunne, Christina Tsangouri, Nicola Dell, Mor Naaman, Deborah Estrin',
       source: 'WWW 2019',
       sourceLink: 'https://www2019.thewebconf.org/',
-      paperLink: ''
+      paperLink: 'http://www.cs.cornell.edu/~ylongqi/paper/YangSWCDTDNE19.pdf'
     },
     {
       year: '2019',
