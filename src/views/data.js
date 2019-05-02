@@ -9,9 +9,9 @@ var bio = {
     + 'Previously, I was an assistant professor at [Rutgers SC&I](http://comminfo.rutgers.edu/), led a research team at Yahoo! Research Berkeley, and got a [PhD from Stanford](http://infolab.stanford.edu/). '
     + 'Oh, and played professional basketball.'
     + '</p> <p>'
-    + 'My lab designs, builds, and studies social systems, with a focus on topics related to Technology, Media and Democracy. Our sponsors include [Yahoo Research / Oath](http://connectedexperiences.org), Google, Facebook and the National Science Foundation. '
+    + 'My lab designs, builds, and studies social systems, with a focus on topics related to Technology, Media and Democracy. Our sponsors include Yahoo, Google, Facebook and the National Science Foundation. '
     + '</p>'
-    + '<b>For prospective 2019/2020 PhDs: </b>I will only be considering new students who are committed to working on issues related to Technology, Media and Democracy. Feel free to email me with information about your relevant experience and goals.'
+    + '<b>For prospective PhD students: </b>I will only be considering new students who are committed to working on issues related to Technology, Media and Democracy. Feel free to email me with information about your relevant experience and goals.'
     + '</p>'
   ),
   fullBio: marked(
