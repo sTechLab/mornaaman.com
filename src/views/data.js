@@ -114,7 +114,7 @@ var publications = [
       author: 'Uzi Smadja, Max Grusky, Yoav Artzi, Mor Naaman',
       source: 'WWW 2019',
       sourceLink: 'https://www2019.thewebconf.org/',
-      paperLink: ''
+      paperLink: 'https://people.jacobs.cornell.edu/mor/publications/thegoods/smadja_webconf_backtracking.pdf'
     },
     {
       year: '2019',
@@ -130,7 +130,7 @@ var publications = [
       author: 'Xiao Ma, Justin Cheng, Shankar Iyer, Mor Naaman',
       source: 'CHI 2019',
       sourceLink: 'https://chi2019.acm.org/',
-      paperLink: ''
+      paperLink: 'https://dl.acm.org/citation.cfm?id=3300297'
     },
     {
       year: '2019',
@@ -138,7 +138,7 @@ var publications = [
       author: 'Maurice Jakesch, Megan French, Xiao Ma, Jeff Hancock, Mor Naaman',
       source: 'CHI 2019',
       sourceLink: 'https://chi2019.acm.org/',
-      paperLink: 'http://www.mauricejakesch.com/pub/chi2019__ai_mc_camera_ready.pdf'
+      paperLink: 'https://people.jacobs.cornell.edu/mor/publications/thegoods/jackesch_AIMC_CHI.pdf'
     },
     {
       year: '2019',
