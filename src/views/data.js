@@ -30,6 +30,10 @@ var bio = {
 
 var news = [
   {
+    date: '1 May 2019',
+    title: 'Will be on a [Plenary panel on Future of Media and Misinformation](https://ci.acm.org/2019/#/program/day-1) at Collective Intelligence 2019 in June.'
+  },
+  {
     date: '11 Aug 2018',
     title: 'NSF EAGER award (with Yoav, Shiri) to [better understand large-scale patterns of attention to news articles](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1840751)'
   },
