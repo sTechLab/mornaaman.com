@@ -134,7 +134,7 @@ var publications = [
       author: 'Xiao Ma, Justin Cheng, Shankar Iyer, Mor Naaman',
       source: 'CHI 2019',
       sourceLink: 'https://chi2019.acm.org/',
-      paperLink: 'https://dl.acm.org/citation.cfm?id=3300297'
+      paperLink: 'https://arxiv.org/pdf/1905.05270.pdf'
     },
     {
       year: '2019',
@@ -199,7 +199,7 @@ var publications = [
       author: 'Xiao Ma, Megan Cackett, Leslie Park, Eric Chien, Mor Naaman',
       source: 'WWW 2018',
       sourceLink: 'https://www2018.thewebconf.org/',
-      paperLink: 'http://maxiao.info/assets/VRCrowdExperiments.pdf'
+      paperLink: 'https://arxiv.org/pdf/1802.08345.pdf'
     },
     {
       year: '2018',
