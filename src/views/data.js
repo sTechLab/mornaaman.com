@@ -9,7 +9,7 @@ var bio = {
     + 'Previously, I was an assistant professor at [Rutgers SC&I](http://comminfo.rutgers.edu/), led a research team at Yahoo! Research Berkeley, and got a [PhD from Stanford](http://infolab.stanford.edu/). '
     + 'Oh, and played professional basketball.'
     + '</p> <p>'
-    + 'My lab designs, builds, and studies social systems, with a focus on topics related to Technology, Media and Democracy. Our sponsors include Yahoo, Google, Facebook and the National Science Foundation. '
+    + 'My lab designs, builds, and studies social systems, with a focus on topics related to Technology, Media and Democracy and the trustworthiness of our information ecosystem. Our sponsors include Yahoo, Google, Facebook and the National Science Foundation. '
     + '</p>'
     + '<b>For prospective PhD students: </b>I will only be considering new students who are committed to working on issues related to Technology, Media and Democracy. Feel free to email me with information about your relevant experience and goals.'
     + '</p>'
@@ -30,6 +30,18 @@ var bio = {
 
 var news = [
   {
+    date: '1 Feb 2020',
+    title: 'Invited speaker for the Future of the Web track in [The Web Conference 2020](https://www2020.thewebconf.org/), April 23, Taipei'
+  },
+  {
+    date: '1 Sep 2019',
+    title: 'Thank you NSF for a [CHS-Medium award to study AI-Mediated Communication and trust](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1901151&HistoricalAwards=false) with Karen Levy, Malte Jung and Jeff Hancock'
+  },
+  {
+    date: '1 Jul 2019',
+    title: 'Started a sabbatical as a visiting researcher at Google in Mountain View, CA'
+  },
+  {
     date: '1 May 2019',
     title: 'Will be on a [Plenary panel on Future of Media and Misinformation](https://ci.acm.org/2019/#/program/day-1) at Collective Intelligence 2019 in June.'
   },
@@ -40,43 +52,43 @@ var news = [
   {
     date: '7 May 2018',
     title: 'Report on the succesful first iteration of [Tech, Media and Democracy Course](http://bcexcelsior.com/how-six-nyc-universities-are-fighting-to-defend-journalism-and-democracy/)'
-  },
-  {
-    date: '20 Dec 2017',
-    title: 'Congrats to my PhD student Xiao Ma for [Snap Research Honorable Mention](https://snapresearchfellowship.splashthat.com/)!'
-  },
-  {
-    date: '28 Sep 2017',
-    title: 'Launched [Technology Media & Democracy](https://www.techmediademocracy.nyc/) initiative: Six New York City Universities Partner to Defend Independent Media and Journalism'
-  },
-  {
-    date: '25 Aug 2017',
-    title: 'Panel in the celebration of Martha Pollack’s inauguration as Cornell’s 14th president: [Symposium addresses role of truth in universities, society](http://news.cornell.edu/stories/2017/08/symposium-addresses-role-truth-universities-society)'
-  },
-  {
-    date: '30 Mar 2017',
-    title: 'Thanks NSF for an EAGER award to study new ideas in [Indirect Resource Exchange](https://nsf.gov/awardsearch/showAward?AWD_ID=1665169).'
-  },
-  {
-    date: '17 Mar 2017',
-    title: 'Congrats to my 1st year PhD student Matt Law for a NSF Graduate Research Fellowship Honorable Mention.'
-  },
-  {
-    date: '23 Feb 2017',
-    title: '[Received a Google Research Award](https://research.googleblog.com/2017/02/google-research-awards-2016.html) for our work on large-scale patterns of attention. Thanks Google!'
-  },
-  {
-    date: '25 Jan 2017',
-    title: 'My student Xiao Ma recognized as [Facebook PhD Fellowship Finalist](https://research.fb.com/announcing-the-2017-facebook-phd-fellows/)!'
-  },
-  {
-    date: '25 Jan 2017',
-    title: 'Three new upcoming papers at CHI 2017 available from the [pubs page](https://people.jacobs.cornell.edu/mor/#publications) -- on a new kind of community awareness app, measuring attention to news articles, and anonymous social networks.'
-  },
-  {
-    date: '23 Jan 2017',
-    title: 'Our paper on [trustworthiness of profiles on Airbnb](https://s.tech.cornell.edu/assets/papers/ma2017airbnb.pdf) gets a Honorable mention for best paper at CSCW.'
   }
+//   {
+//     date: '20 Dec 2017',
+//     title: 'Congrats to my PhD student Xiao Ma for [Snap Research Honorable Mention](https://snapresearchfellowship.splashthat.com/)!'
+//   },
+//   {
+//     date: '28 Sep 2017',
+//     title: 'Launched [Technology Media & Democracy](https://www.techmediademocracy.nyc/) initiative: Six New York City Universities Partner to Defend Independent Media and Journalism'
+//   },
+//   {
+//     date: '25 Aug 2017',
+//     title: 'Panel in the celebration of Martha Pollack’s inauguration as Cornell’s 14th president: [Symposium addresses role of truth in universities, society](http://news.cornell.edu/stories/2017/08/symposium-addresses-role-truth-universities-society)'
+//   },
+//   {
+//     date: '30 Mar 2017',
+//     title: 'Thanks NSF for an EAGER award to study new ideas in [Indirect Resource Exchange](https://nsf.gov/awardsearch/showAward?AWD_ID=1665169).'
+//   },
+//   {
+//     date: '17 Mar 2017',
+//     title: 'Congrats to my 1st year PhD student Matt Law for a NSF Graduate Research Fellowship Honorable Mention.'
+//   },
+//   {
+//     date: '23 Feb 2017',
+//     title: '[Received a Google Research Award](https://research.googleblog.com/2017/02/google-research-awards-2016.html) for our work on large-scale patterns of attention. Thanks Google!'
+//   },
+//   {
+//     date: '25 Jan 2017',
+//     title: 'My student Xiao Ma recognized as [Facebook PhD Fellowship Finalist](https://research.fb.com/announcing-the-2017-facebook-phd-fellows/)!'
+//   },
+//   {
+//     date: '25 Jan 2017',
+//     title: 'Three new upcoming papers at CHI 2017 available from the [pubs page](https://people.jacobs.cornell.edu/mor/#publications) -- on a new kind of community awareness app, measuring attention to news articles, and anonymous social networks.'
+//   },
+//   {
+//     date: '23 Jan 2017',
+//     title: 'Our paper on [trustworthiness of profiles on Airbnb](https://s.tech.cornell.edu/assets/papers/ma2017airbnb.pdf) gets a Honorable mention for best paper at CSCW.'
+//   }
   //{
   //  date: '30 Oct 2016',
   //  title: 'Four upcoming CSCW papers now available from the pub page. Topic range: Facebook feedback expectations, warranting effects of location tracking in happn, trustworthiness on Airbnb, and limitation in resource sharing platforms.'
@@ -112,6 +124,38 @@ var news = [
 
 var publications = [
   [
+     {
+      year: '2020',
+      title: 'AI-Mediated Communication: Definition, Research Agenda, and Ethical Considerations, Journal of Computer-Mediated Communication',
+      author: 'Jeffrey T Hancock, Mor Naaman, Karen Levy',
+      source: 'Journal of Computer Mediated Communication',
+      sourceLink: '',
+      paperLink: 'https://academic.oup.com/jcmc/advance-article/doi/10.1093/jcmc/zmz022/5714020?guestAccessKey=97e8ea81-4939-4442-8f4e-c2613e1bbed0'
+    }, 
+    {
+      year: '2020',
+      title: 'Towards Measuring Adversarial Twitter Interactions against Candidates in the US Midterm Elections',
+      author: 'Yiqing Hua, Thomas Ristenpart, Mor Naaman. ',
+      source: 'ICWMS 2020',
+      sourceLink: 'https://www.icwsm.org/2020/index.html',
+      paperLink: ''
+    }, 
+    {
+      year: '2020',
+      title: 'Characterizing Twitter Users Who Engage in Adversarial Interactions against Political Candidates',
+      author: 'Yiqing Hua, Mor Naaman, Thomas Ristenpart',
+      source: 'CHI 2020',
+      sourceLink: 'https://chi2020.acm.org/',
+      paperLink: ''
+    },
+    {
+      year: '2020',
+      title: 'The Government`s Dividend: Complex Perceptions of Social Media Misinformation in China',
+      author: 'Zhicong Lu, Yue Jiang, Cheng Lu, Mor Naaman, Daniel Wigdor',
+      source: 'CHI 2020',
+      sourceLink: 'https://chi2020.acm.org/',
+      paperLink: 'http://www.cs.umd.edu/~yuejiang/papers/Dividend.pdf'
+    },
     {
       year: '2019',
       title: 'Understanding Reader Backtracking Behavior in Online News Articles',
@@ -142,7 +186,7 @@ var publications = [
       author: 'Maurice Jakesch, Megan French, Xiao Ma, Jeff Hancock, Mor Naaman',
       source: 'CHI 2019',
       sourceLink: 'https://chi2019.acm.org/',
-      paperLink: 'https://people.jacobs.cornell.edu/mor/publications/thegoods/jackesch_AIMC_CHI.pdf'
+      paperLink: 'https://www.mauricejakesch.com/assets/pdf/chi2019__ai_mc_camera_ready.pdf'
     },
     {
       year: '2019',
