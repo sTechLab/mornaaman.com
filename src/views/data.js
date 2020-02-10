@@ -155,7 +155,9 @@ var publications = [
       source: 'CHI 2020',
       sourceLink: 'https://chi2020.acm.org/',
       paperLink: 'http://www.cs.umd.edu/~yuejiang/papers/Dividend.pdf'
-    },
+    }
+  ],
+  [
     {
       year: '2019',
       title: 'Understanding Reader Backtracking Behavior in Online News Articles',
