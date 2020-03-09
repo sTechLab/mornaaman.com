@@ -136,7 +136,7 @@ var publications = [
       year: '2020',
       title: 'Towards Measuring Adversarial Twitter Interactions against Candidates in the US Midterm Elections',
       author: 'Yiqing Hua, Thomas Ristenpart, Mor Naaman. ',
-      source: 'ICWMS 2020',
+      source: 'ICWSM 2020',
       sourceLink: 'https://www.icwsm.org/2020/index.html',
       paperLink: ''
     }, 
@@ -146,7 +146,8 @@ var publications = [
       author: 'Yiqing Hua, Mor Naaman, Thomas Ristenpart',
       source: 'CHI 2020',
       sourceLink: 'https://chi2020.acm.org/',
-      paperLink: ''
+      paperLink: '',
+      award: 'Best Paper Honorable Mention'
     },
     {
       year: '2020',
