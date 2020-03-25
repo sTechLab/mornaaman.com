@@ -128,7 +128,7 @@ var publications = [
       year: '2020',
       title: 'AI-Mediated Communication: Definition, Research Agenda, and Ethical Considerations, Journal of Computer-Mediated Communication',
       author: 'Jeffrey T Hancock, Mor Naaman, Karen Levy',
-      source: 'Journal of Computer Mediated Communication',
+      source: 'Journal of Computer Mediated Communication 25(1)',
       sourceLink: '',
       paperLink: 'https://academic.oup.com/jcmc/advance-article/doi/10.1093/jcmc/zmz022/5714020?guestAccessKey=97e8ea81-4939-4442-8f4e-c2613e1bbed0'
     }, 
@@ -138,7 +138,7 @@ var publications = [
       author: 'Yiqing Hua, Thomas Ristenpart, Mor Naaman. ',
       source: 'ICWSM 2020',
       sourceLink: 'https://www.icwsm.org/2020/index.html',
-      paperLink: ''
+      paperLink: 'http://yiqing-hua.com/papers/adversarial_candidates_icwsm2020.pdf'
     }, 
     {
       year: '2020',
@@ -146,7 +146,7 @@ var publications = [
       author: 'Yiqing Hua, Mor Naaman, Thomas Ristenpart',
       source: 'CHI 2020',
       sourceLink: 'https://chi2020.acm.org/',
-      paperLink: '',
+      paperLink: 'http://yiqing-hua.com/papers/adversarial_user_chi2020.pdf',
       award: 'Best Paper Honorable Mention'
     },
     {
