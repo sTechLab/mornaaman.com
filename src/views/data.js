@@ -3,7 +3,7 @@ var marked = require('marked');
 var bio = {
   shortBio: marked(
     '<p>'
-    + 'I am an associate professor at [Cornell Tech](http://tech.cornell.edu/) where I am the founder of the Connective Media hub, '
+    + 'I am an professor at [Cornell Tech](http://tech.cornell.edu/) where I am the founder of the Connective Media hub, '
     + 'co-direct the Oath-supported [Connected Experiences Lab](http://cx.jacobs.cornell.edu/), and lead the [Social Technologies](http://stech.nyc) research group. '
     + 'I sometimes consult or even co-found startups. '
     + 'Previously, I was an assistant professor at [Rutgers SC&I](http://comminfo.rutgers.edu/), led a research team at Yahoo! Research Berkeley, and got a [PhD from Stanford](http://infolab.stanford.edu/). '
@@ -16,7 +16,7 @@ var bio = {
   ),
   fullBio: marked(
     '<p>'
-    + 'Mor Naaman is an associate professor of [Information Science](http://infosci.cornell.edu/) at the [Jacobs Institute](http://jacobs.cornell.edu/) at [Cornell Tech](http://tech.cornell.edu/), where he is the founder of the Connective Media hub, leads a [research group focused on social technologies](https://s.tech.cornell.edu/), and directs the Oath-supported [Connected Experiences laboratory](https://cx.jacobs.cornell.edu/).'
+    + 'Mor Naaman is an professor of [Information Science](http://infosci.cornell.edu/) at the [Jacobs Institute](http://jacobs.cornell.edu/) at [Cornell Tech](http://tech.cornell.edu/), where he is the founder of the Connective Media hub, leads a [research group focused on social technologies](https://s.tech.cornell.edu/), and directs the Oath-supported [Connected Experiences laboratory](https://cx.jacobs.cornell.edu/).'
     + '</p> <p>'
     + 'His research group designs, builds, and studies studies social systems, with a focus on topics related to Technology, Media and Democracy. '
     + 'Mor applies multidisciplinary methods to 1) gain a better understanding of people and their use of social tech; 2) extract insights about people, technology and society from social media and other sources of social data, and 3) develop new social technologies as well as novel tools to make social data more accessible and usable in various settings. '
