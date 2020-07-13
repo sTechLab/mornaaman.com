@@ -16,12 +16,12 @@ var bio = {
   ),
   fullBio: marked(
     '<p>'
-    + 'Mor Naaman is a professor of [Information Science](http://infosci.cornell.edu/) at the [Jacobs Institute](http://jacobs.cornell.edu/) at [Cornell Tech](http://tech.cornell.edu/), where he is the founder of the Connective Media hub, leads a [research group focused on social technologies](https://s.tech.cornell.edu/), and directs the Oath-supported [Connected Experiences laboratory](https://cx.jacobs.cornell.edu/).'
+    + 'Mor Naaman is a professor of  [Information Science](http://infosci.cornell.edu/) at the [Jacobs Institute](http://jacobs.cornell.edu/) at [Cornell Tech](http://tech.cornell.edu/). He leads a [research group](https://s.tech.cornell.edu/) focused on topics related to the intersection of technology, media and democracy. '
+   + 'The group applies multidisciplinary techniques -- from machine learning to qualitative social science -- to study our information ecosystem and its challenges.'
     + '</p> <p>'
-    + 'His research group designs, builds, and studies studies social systems, with a focus on topics related to Technology, Media and Democracy. '
-    + 'Mor applies multidisciplinary methods to 1) gain a better understanding of people and their use of social tech; 2) extract insights about people, technology and society from social media and other sources of social data, and 3) develop new social technologies as well as novel tools to make social data more accessible and usable in various settings. '
+    + 'Previously, Mor was on the faculty at the [Rutgers School of Communication and Information](http://comminfo.rutgers.edu/), led a research team at Yahoo! Research Berkeley, received a Ph.D. in Computer Science from the [Stanford University InfoLab](http://infolab.stanford.edu/), and played professional basketball for Hapoel Tel Aviv.’
+   + 'He is also a former startup co-founder, and advises startup companies in social computing and related areas. His research is widely recognized, including with an NSF Early Faculty CAREER Award, research awards and grants from numerous corporations, and multiple best paper awards.'
     + '</p> <p>'
-    + 'Previously, Mor was on the faculty at the [Rutgers School of Communication and Information](http://comminfo.rutgers.edu/), led a research team at Yahoo! Research Berkeley, received a Ph.D. in Computer Science from the [Stanford University InfoLab](http://infolab.stanford.edu/), and played professional basketball for Hapoel Tel Aviv. He is a recipient of a NSF Early Faculty CAREER Award, research awards and grants from numerous corporations including AOL and Google, and multiple best paper awards.'
     + '</p> <p>'
     + 'If I am speaking at your event, additional high-res headshots are available: [1](https://www.flickr.com/photos/mmoorr/15592772261/sizes/z/) [2](https://www.flickr.com/photos/mmoorr/15516802398/sizes/z/) (I\'ll like you better if you pick the polka dot one).'
     + '</p>'
