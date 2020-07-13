@@ -31,7 +31,7 @@ var bio = {
 var news = [
   {
     date: '1 Feb 2020',
-    title: 'Invited speaker for the Future of the Web track in [The Web Conference 2020](https://www2020.thewebconf.org/), April 23, Taipei'
+    title: 'Invited speaker for the Future of the Web track in [The Web Conference 2020](https://www2020.thewebconf.org/), April 23, Taipei (postponed due to Coronavirus)'
   },
   {
     date: '1 Sep 2019',
