@@ -3,11 +3,10 @@ var marked = require('marked');
 var bio = {
   shortBio: marked(
     '<p>'
-    + 'I am a professor at [Cornell Tech](http://tech.cornell.edu/) where I am the founder of the Connective Media hub, '
-    + 'co-direct the Oath-supported [Connected Experiences Lab](http://cx.jacobs.cornell.edu/), and lead the [Social Technologies](http://stech.nyc) research group. '
-    + 'I sometimes consult or even co-found startups. '
+    + 'I am a professor of [Information Science](http://infosci.cornell.edu/) at [Cornell Tech](http://tech.cornell.edu/) where I lead the [Social Technologies](http://stech.nyc) research group. '
     + 'Previously, I was an assistant professor at [Rutgers SC&I](http://comminfo.rutgers.edu/), led a research team at Yahoo! Research Berkeley, and got a [PhD from Stanford](http://infolab.stanford.edu/). '
-    + 'Oh, and played professional basketball.'
+    + 'Oh, and played professional basketball. '
+    + 'I sometimes consult or even co-found startups. '
     + '</p> <p>'
     + 'My lab designs, builds, and studies social systems, with a focus on topics related to Technology, Media and Democracy and the trustworthiness of our information ecosystem. Our sponsors include Yahoo, Google, Facebook and the National Science Foundation. '
     + '</p>'
@@ -47,7 +46,7 @@ var news = [
   },
   {
     date: '11 Aug 2018',
-    title: 'NSF EAGER award (with Yoav, Shiri) to [better understand large-scale patterns of attention to news articles](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1840751)'
+    title: 'NSF EAGER award (with [Yoav](https://yoavartzi.com/), [Shiri](http://shiriazenkot.com/)) to [better understand large-scale patterns of attention to news articles](http://s.tech.cornell.edu/attention)'
   },
   {
     date: '7 May 2018',
