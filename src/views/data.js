@@ -16,10 +16,10 @@ var bio = {
   fullBio: marked(
     '<p>'
     + 'Mor Naaman is a professor of  [Information Science](http://infosci.cornell.edu/) at the [Jacobs Institute](http://jacobs.cornell.edu/) at [Cornell Tech](http://tech.cornell.edu/). He leads a [research group](https://s.tech.cornell.edu/) focused on topics related to the intersection of technology, media and democracy. '
-   + 'The group applies multidisciplinary techniques -- from machine learning to qualitative social science -- to study our information ecosystem and its challenges.'
+    + 'The group applies multidisciplinary techniques -- from machine learning to qualitative social science -- to study our information ecosystem and its challenges.'
     + '</p> <p>'
-    + 'Previously, Mor was on the faculty at the [Rutgers School of Communication and Information](http://comminfo.rutgers.edu/), led a research team at Yahoo! Research Berkeley, received a Ph.D. in Computer Science from the [Stanford University InfoLab](http://infolab.stanford.edu/), and played professional basketball for Hapoel Tel Aviv.’
-   + 'He is also a former startup co-founder, and advises startup companies in social computing and related areas. His research is widely recognized, including with an NSF Early Faculty CAREER Award, research awards and grants from numerous corporations, and multiple best paper awards.'
+    + 'Previously, Mor was on the faculty at the [Rutgers School of Communication and Information](http://comminfo.rutgers.edu/), led a research team at Yahoo! Research Berkeley, received a Ph.D. in Computer Science from the [Stanford University InfoLab](http://infolab.stanford.edu/), and played professional basketball for Hapoel Tel Aviv. '
+    + 'He is also a former startup co-founder, and advises startup companies in social computing and related areas. His research is widely recognized, including with an NSF Early Faculty CAREER Award, research awards and grants from numerous corporations, and multiple best paper awards.'
     + '</p> <p>'
     + '</p> <p>'
     + 'If I am speaking at your event, additional high-res headshots are available: [1](https://www.flickr.com/photos/mmoorr/15592772261/sizes/z/) [2](https://www.flickr.com/photos/mmoorr/15516802398/sizes/z/) (I\'ll like you better if you pick the polka dot one).'
