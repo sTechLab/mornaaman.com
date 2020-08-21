@@ -10,7 +10,9 @@ var bio = {
     + '</p> <p>'
     + 'My lab designs, builds, and studies social systems, with a focus on topics related to Technology, Media and Democracy and the trustworthiness of our information ecosystem. Our sponsors include Yahoo, Google, Facebook and the National Science Foundation. '
     + '</p>'
-    + '<b>For prospective PhD students: </b>I will only be considering new students who are committed to working on issues related to Technology, Media and Democracy. Feel free to email me with information about your relevant experience and goals.'
+    + '<b>For prospective PhD students:</b> I will only be considering new students who are committed to working on issues related to Technology, Media and Democracy. Feel free to email me with information about your relevant experience and goals.'
+    + '</p>'
+    + '<b>Fall 2020:</b> I am teaching version of the Psy Social. Cornell students can [access the course on Canvas](https://canvas.cornell.edu/courses/19147).'
     + '</p>'
   ),
   fullBio: marked(
