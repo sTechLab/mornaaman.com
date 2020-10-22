@@ -125,9 +125,17 @@ var news = [
 
 var publications = [
   [
-     {
+    {
       year: '2020',
-      title: 'AI-Mediated Communication: Definition, Research Agenda, and Ethical Considerations, Journal of Computer-Mediated Communication',
+      title: 'How Partisan Crowds Affect News Evaluation',
+      author: 'Maurice Jakesch, Moran Koren, Anna Evtushenko, Mor Naaman',
+      source: 'Truth and Trust Online (TTO) 2020',
+      sourceLink: 'https://truthandtrustonline.com/',
+      paperLink: ''
+    }, 
+    {
+      year: '2020',
+      title: 'AI-Mediated Communication: Definition, Research Agenda, and Ethical Considerations',
       author: 'Jeffrey T Hancock, Mor Naaman, Karen Levy',
       source: 'Journal of Computer Mediated Communication 25(1)',
       sourceLink: '',
