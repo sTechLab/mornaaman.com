@@ -31,8 +31,20 @@ var bio = {
 
 var news = [
   {
-    date: '1 Feb 2020',
-    title: 'Invited speaker for the Future of the Web track in [The Web Conference 2020](https://www2020.thewebconf.org/), April 23, Taipei (postponed due to Coronavirus)'
+    date: '1 Mar 2021',
+    title: 'Two new papers at CSCW 2021; one on AI-mediated communication and another on how the concept of positive energy plays out in the Chinese information ecosystem.'
+  },
+  {
+    date: '1 Feb 2021',
+    title: 'Invited speaker for the Future of the Web track in [The Web Conference 2021](https://www2021.thewebconf.org/), April 19-23, 2021 (postponed froom 2020 due to Coronavirus)'
+  },
+  {
+    date: '15 Jan 2021',
+    title: 'Released data and analysis of voter fraud claims on Twitter after the US election, Nov-Dec 2020 at [voterfraud2020.io](https://voterfraud2020.io/)'
+  },
+  {
+    date: '1 Jan 2020',
+    title: 'The fourth iteration of the NYC-wide [Tech, Media and Democracy](https://www.techmediademocracy.nyc/) graduate course is offered this spring with guest speakers from Ali Velshi to Kara Swisher.'
   },
   {
     date: '1 Sep 2019',
@@ -49,11 +61,11 @@ var news = [
   {
     date: '11 Aug 2018',
     title: 'NSF EAGER award (with [Yoav](https://yoavartzi.com/), [Shiri](http://shiriazenkot.com/)) to [better understand large-scale patterns of attention to news articles](http://s.tech.cornell.edu/attention)'
-  },
-  {
-    date: '7 May 2018',
-    title: 'Report on the succesful first iteration of [Tech, Media and Democracy Course](http://bcexcelsior.com/how-six-nyc-universities-are-fighting-to-defend-journalism-and-democracy/)'
   }
+// {
+//    date: '7 May 2018',
+//   title: 'Report on the succesful first iteration of [Tech, Media and Democracy Course](http://bcexcelsior.com/how-six-nyc-universities-are-fighting-to-defend-journalism-and-democracy/)'
+//  },
 //   {
 //     date: '20 Dec 2017',
 //     title: 'Congrats to my PhD student Xiao Ma for [Snap Research Honorable Mention](https://snapresearchfellowship.splashthat.com/)!'
@@ -126,19 +138,45 @@ var news = [
 var publications = [
   [
     {
+      year: '2021',
+      title: 'VoterFraud2020: a Multi-modal Dataset of Election Fraud Claims on Twitter',
+      author: 'Anton Abilov, Yiqing Hua, Hana Matatov, Ofra Amir, Mor Naaman',
+      source: '[Dataset and paper, under review]',
+      sourceLink: 'https://voterfraud2020.io/',
+      paperLink: 'https://arxiv.org/abs/2101.08210'
+    }, 
+    {
+      year: '2021',
+      title: '”Positive Energy”: Perceptions and Attitudes Towards COVID-19 Information on Social Media in China',
+      author: 'Zhicong Lu, Yue Jiang, Chenxinran Shen, Margaret Jack, Daniel Wigdor, Mor Naaman',
+      source: 'CSCW 2021',
+      sourceLink: 'https://cscw.acm.org/2021/',
+      paperLink: 'https://www.cs.cityu.edu.hk/~zhiconlu/assets/pdf/positive-energy-cscw21.pdf'
+    }, 
+    {
+      year: '2021',
+      title: 'AI-Mediated Communication: Language Use and Interpersonal Effects in a Referential Communication Task',
+      author: 'Hannah Mieczkowski, Jeffrey T. Hancock, Mor Naaman, Malte Jung, Jess Hohenstein',
+      source: 'CSCW 2021',
+      sourceLink: 'https://cscw.acm.org/2021/',
+      paperLink: 'https://www.hnmiecz.com/media/AI_MC_CSCW_website.pdf'
+    } 
+  ],
+  [
+    {
       year: '2020',
       title: 'How Partisan Crowds Affect News Evaluation',
       author: 'Maurice Jakesch, Moran Koren, Anna Evtushenko, Mor Naaman',
       source: 'Truth and Trust Online (TTO) 2020',
       sourceLink: 'https://truthandtrustonline.com/',
-      paperLink: ''
+      paperLink: 'https://mauricejakesch.com/assets/pdf/tto2020_partisan_crowd_influence.pdf'
     }, 
     {
       year: '2020',
       title: 'AI-Mediated Communication: Definition, Research Agenda, and Ethical Considerations',
       author: 'Jeffrey T Hancock, Mor Naaman, Karen Levy',
       source: 'Journal of Computer Mediated Communication 25(1)',
-      sourceLink: '',
+      sourceLink: 'https://academic.oup.com/jcmc/',
       paperLink: 'https://academic.oup.com/jcmc/advance-article/doi/10.1093/jcmc/zmz022/5714020?guestAccessKey=97e8ea81-4939-4442-8f4e-c2613e1bbed0'
     }, 
     {
@@ -273,7 +311,7 @@ var publications = [
       author: 'Xiao Ma, Trishala Neeraj, Mor Naaman',
       source: 'ICWSM 2017',
       sourceLink: 'http://www.icwsm.org/2017/',
-      paperLink: 'http://maxiao.info/assets/computational-airbnb.pdf'
+      paperLink: 'https://ojs.aaai.org/index.php/ICWSM/article/view/14937/14787'
     },
     {
       year: '2017',
@@ -442,7 +480,7 @@ var publications = [
       author: 'Nir Grinberg, Mor Naaman, Blake Shaw, Gilad Lotan',
       source: 'ICWSM 2013',
       sourceLink: 'http://www.icwsm.org/2013/',
-      paperLink: 'http://sm.rutgers.edu/pubs/Grinberg-SMPatterns-ICWSM2013.pdf'
+      paperLink: 'https://www.aaai.org/ocs/index.php/ICWSM/ICWSM13/paper/viewFile/6087/6359'
     },
     {
       year: '2013',
@@ -450,7 +488,7 @@ var publications = [
       author: 'Rannie Teodoro, Mor Naaman',
       source: 'ICWSM 2013',
       sourceLink: 'http://www.icwsm.org/2013/',
-      paperLink: 'http://sm.rutgers.edu/pubs/Teodoro-FitterTwitter-ICWSM2013.pdf'
+      paperLink: 'https://www.aaai.org/ocs/index.php/ICWSM/ICWSM13/paper/download/6099/6401'
     }
   ], 
   [
@@ -469,7 +507,7 @@ var publications = [
       author: 'Kai Su, Mor Naaman, Avadhut Gurjar, Mohsin Patel, Dan Ellis',
       source: 'ICMR 2012',
       sourceLink: 'http://www.icmr2012.org/',
-      paperLink: 'http://sm.rutgers.edu/pubs/su-makingscene-icmr2012.pdf'
+      paperLink: ' https://dl.acm.org/doi/10.1145/2324796.2324829?cid=81100585927'
     },
     {
       year: '2012',
@@ -477,7 +515,7 @@ var publications = [
       author: 'Mor Naaman, Amy Zhang, Samuel Brody, Gilad Lotan',
       source: 'ICWSM 2012',
       sourceLink: 'http://www.icwsm.org/2012/',
-      paperLink: 'http://sm.rutgers.edu/pubs/naaman-twitterpatterns-icwsm2012.pdf'
+      paperLink: 'https://www.aaai.org/ocs/index.php/ICWSM/ICWSM12/paper/view/4610/4991'
     },
     {
       year: '2012',
@@ -485,7 +523,7 @@ var publications = [
       author: 'Hila Becker, Dan Iter, Mor Naaman, Luis Gravano',
       source: 'WSDM 2012',
       sourceLink: 'http://wsdm2012.org/',
-      paperLink: 'http://sm.rutgers.edu/pubs/becker-events-wsdm2012.pdf'
+      paperLink: 'http://www.cs.columbia.edu/~hila/papers/wsdm12-becker.pdf'
     },
     {
       year: '2012',
@@ -493,7 +531,7 @@ var publications = [
       author: 'Munmun De Choudhury, Nicholas Diakopoulos, Mor Naaman',
       source: 'CSCW 2012',
       sourceLink: 'http://www.icwsm.org/2013/',
-      paperLink: 'http://sm.rutgers.edu/pubs/dechoudhury-userclassification-cscw2012.pdf'
+      paperLink: ' https://dl.acm.org/doi/10.1145/2145204.2145242?cid=81100585927'
     },
     {
       year: '2012',
@@ -501,7 +539,7 @@ var publications = [
       author: 'Jessa Lingel, Aaron Trammell, Joe Sanchez, Mor Naaman',
       source: 'CSCW 2012',
       sourceLink: 'http://cscw2010.org/',
-      paperLink: 'http://sm.rutgers.edu/pubs/lingel-secercy-socialmedia-cscw2012.pdf'
+      paperLink: ' https://dl.acm.org/doi/10.1145/2145204.2145230?cid=81100585927'
     },
     {
       year: '2012',
@@ -509,7 +547,7 @@ var publications = [
       author: 'Jessa Lingel, Mor Naaman',
       source: 'New Media & Society',
       sourceLink: 'http://nms.sagepub.com/',
-      paperLink: 'http://sm.rutgers.edu/pubs/lingel-NMS2011.pdf'
+      paperLink: 'https://journals.sagepub.com/doi/full/10.1177/1461444811417284'
     }
   ], 
   [
@@ -519,7 +557,7 @@ var publications = [
       author: 'Hila Becker, Mor Naaman, Luis Gravano',
       source: 'ICWSM 2011',
       sourceLink: 'http://www.icwsm.org/2011/',
-      paperLink: 'http://sm.rutgers.edu/pubs/becker35-icwsm2011.pdf'
+      paperLink: 'https://www.aaai.org/ocs/index.php/ICWSM/ICWSM11/paper/viewFile/2745/3207'
     },
     {
       year: '2011',
@@ -527,7 +565,7 @@ var publications = [
       author: 'Hila Becker, Mor Naaman, Luis Gravano',
       source: 'ICWSM 2011',
       sourceLink: 'http://www.icwsm.org/2011/',
-      paperLink: 'http://sm.rutgers.edu/pubs/becker82-icwsm2011.pdf'
+      paperLink: 'http://www.cs.columbia.edu/~gravano/Papers/2011/icwsm11-b.pdf'
     },
     {
       year: '2011',
